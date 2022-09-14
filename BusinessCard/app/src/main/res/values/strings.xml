@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Simon Peier</string>
+    <string name="job_title">Junior Software Engineer</string>
+    <string name="phone">+41 79 123 45 67</string>
+    <string name="email">example@gmail.com</string>
+    <string name="linked_in">https://www.linkedin.com/in/simon-peier/</string>
+</resources>
